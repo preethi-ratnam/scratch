@@ -1,3 +1,6 @@
+/*
+* Program to print numbers as rows and cols
+*/
 public class Print{
   public static void main(String[] args){
     int rows=10, cols=5;
