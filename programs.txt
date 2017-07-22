@@ -1,0 +1,23 @@
+Write a program to print
+
+  *
+ * *
+* * *
+ * *
+  *
+
+then update the same program that can take an input and print the * generically.
+
+For eg.,
+
+Give me stars: 5 should print this.
+
+    *
+   * * 
+  * * *
+ * * * *
+* * * * *
+ * * * *   
+  * * *
+   * *
+    *
